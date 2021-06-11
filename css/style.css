@@ -98,3 +98,95 @@ margin: 0;
     background-repeat: no-repeat;
     background-position: top right;
 }
+.general-actor{
+    margin-top: 30px;
+}
+.mini-title{
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.8);
+}
+.content-title{
+    font-size: 36px;
+    line-height: 42px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 21px;
+    margin-top: 0;
+    margin-top: 50px;
+}
+.content-subtitle{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.8);
+}
+.col-title-group{
+    display: flex;
+}
+.col-title1{
+    margin-right: 60px;
+}
+.col-title1, .col-title2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.8);
+}
+.content{
+    display: flex;
+}
+.col-main2{
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.col-main2{
+    display: flex;
+}
+.Scenari-name{
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.8);
+}
+.img-tizer{
+    margin-right: 30px;
+    top: 0;
+}
+.Creater{
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.8);
+}
+.block-production{
+    margin-bottom: 20px;
+}
+.block-video{
+    background-image: url('../img/Rectangle\ 2.png');
+}
+.button-play-video{
+    margin-top: 30px;
+    max-width: 356;
+    max-height: 205;
+    
+    background-repeat: no-repeat;
+}
+.button-play1{
+    width: 45px;
+    height: 45px;
+    position: absolute ;
+    left: 266px;
+    top: 580px;
+    background: #FFFFFF;
+    border-radius: 50px;
+}
+.button-icons{
+    align-items: center;
+    margin: 0;
+}
